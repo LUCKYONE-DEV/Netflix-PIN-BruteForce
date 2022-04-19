@@ -2,9 +2,9 @@
  A program that cracks the account PIN of a Netflix profile.
 
 
-Ein Programm, was in C# mit dem .NET 5 Framework geschrieben wurde. 
+A program written in C# with the .NET 5 framework.
 
-Ihr könnt es einfach in VS öffnen. 
+You can easily open it in VS.
 
 Optionally, an exe file is included, which you can execute immediately. 
 
